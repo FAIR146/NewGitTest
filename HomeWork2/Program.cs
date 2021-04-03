@@ -10,7 +10,10 @@ namespace HomeWork2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            string name = Console.ReadLine();
+            
+            Console.WriteLine($"Hello, {name}");
+
         }
     }
 }
