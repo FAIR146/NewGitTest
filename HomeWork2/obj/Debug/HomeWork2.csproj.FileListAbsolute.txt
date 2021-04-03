@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\NewGitTest\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\NewGitTest\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\NewGitTest\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\Nikita\source\repos\NewGitTest\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\Nikita\source\repos\NewGitTest\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\Nikita\source\repos\NewGitTest\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\Nikita\source\repos\NewGitTest\HomeWork2\obj\Debug\HomeWork2.pdb
